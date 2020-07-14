@@ -24,7 +24,6 @@ thead a:hover, .tfooter a:hover{
 
 .navigation-bar a{
   color: #fff;
-  padding-left: 5%;
 }
 .navigation-bar a:hover{
   text-decoration: none;
@@ -39,6 +38,7 @@ thead a:hover, .tfooter a:hover{
 }
 
 .navigation-bar{
+  border-collapse: collapse;
   background-color: #333333;
   padding: 8px;
 }
@@ -54,7 +54,6 @@ thead a:hover, .tfooter a:hover{
 
 #page{
   width: 100%;
-  table-layout: fixed;
 }
 
 #top-section, #bottom-section{
@@ -179,6 +178,7 @@ h5{
   padding-top: 25px;
   padding-left: 10%;
 }
+
 .sub-logo2{
   font-family: "Source Serif Pro";
   font-size: 1rem;
