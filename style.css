@@ -1,0 +1,197 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Source Serif Pro', serif; */
+
+table td{
+  vertical-align: top;
+}
+img{
+  border: 5px solid lightgrey;
+}
+thead{
+  background-color: #A52A2A;
+  color: #fff;
+}
+thead a, .tfooter a{
+  color: #fff;
+}
+thead a:hover, .tfooter a:hover{
+  text-decoration: none;
+  color: lightblue;
+}
+
+/* navbar */
+
+.navigation-bar a{
+  color: #fff;
+  padding-left: 5%;
+}
+.navigation-bar a:hover{
+  text-decoration: none;
+  color: #FF7F50;
+}
+.pathways a{
+  color: #A52A2A;
+}
+.pathways a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.navigation-bar{
+  background-color: #333333;
+  padding: 8px;
+}
+
+.navigation-item{
+  font-family: "open sans";
+  font-size: 1rem;
+  font-weight:bold;
+  color: white;
+}
+
+/* tables */
+
+#page{
+  width: 100%;
+  table-layout: fixed;
+}
+
+#top-section, #bottom-section{
+  table-layout: fixed;
+  width: 90%;
+  margin: 20px 5%;
+}
+
+/* .welcome{
+  padding-right: 5%;
+} */
+.news{
+  padding-right: 5%;
+  padding-left: 5%;
+}
+.sub-news{
+padding-bottom: 5%;
+}
+
+.td{
+  font-family: "Open Sans";
+}
+
+/* headings */
+
+.headings{
+  font-family: "Open Sans";
+  font-size: 2rem;
+  font-weight:normal;
+  color: grey;
+  border-bottom: 3px solid grey;
+}
+
+.pathways{
+  color: #A52A2A;
+  border-bottom: 1px solid grey;
+  padding: 12px 0 12px 0;
+}
+
+/* logo */
+
+.logo{
+  font-family: 'Source Serif Pro', serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #A52A2A;
+}
+
+.dep-logo{
+font-family: 'Open Sans', sans-serif;
+font-size: 1.5rem;
+font-weight:bold;
+color: grey;
+}
+
+.sub-logo{
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: grey;
+}
+
+.picture-crousal{
+  padding-top: 20px;
+  background-color: #A52A2A;
+}
+
+.rector-img{
+  margin-top:10px;
+  width:100%;
+}
+
+h6{
+  font-family: "open sans";
+  font-weight: bold;
+  font-size: 1rem;
+  color: #A52A2A;
+}
+h5{
+  font-family: "open sans";
+  font-weight: bold;
+  font-size: 1rem;
+  color: grey;
+}
+
+#topsection p, #bottomsection p{
+  font-family: "open sans";
+  font-weight: normal;
+}
+
+.subnews p{
+  font-size: 0.95rem;
+}
+
+.news-img{
+  width:120px;
+}
+
+.tfooter{
+  background-color: #A52A2A;
+  color: #fff;
+  width: 100%;
+}
+
+.footer-element{
+  line-height: 1px;
+  padding: 40px 50px 20px 40px;
+  font-family: 'Source Serif Pro';
+
+}
+
+.footer-element p{
+  padding-top: 20px;
+  font-size: 0.8rem;
+}
+
+.logo2{
+  font-family: "Source Serif Pro";
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #fff;
+  padding-top: 25px;
+  padding-left: 10%;
+}
+.sub-logo2{
+  font-family: "Source Serif Pro";
+  font-size: 1rem;
+  font-weight: 400;
+  color: #fff;
+  line-height: 0;
+  padding-bottom: 10px;
+  padding-left: 10%;
+}
+
+.footer-item{
+  font-family: "open sans";
+  font weight: 600;
+  font-size: 0.9rem;
+  padding-right: 40px;
+}
